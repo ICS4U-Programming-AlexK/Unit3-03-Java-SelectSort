@@ -34,7 +34,8 @@ public final class SelectSort {
         Random randomGenerator = new Random();
         for (int arrayIndex = 0; arrayIndex < MAX_ARRAYS; arrayIndex++) {
             int[] numberArray = new int[MAX_SIZE];
-            for (int elementIndex = 0; elementIndex < MAX_SIZE; elementIndex++) {
+            for (int elementIndex = 0; elementIndex < MAX_SIZE;
+             elementIndex++) {
                 int randomNumber = randomGenerator.nextInt(MAX_VALUE);
                 numberArray[elementIndex] = randomNumber;
             }
@@ -59,7 +60,8 @@ public final class SelectSort {
         for (int counter = 0; counter < arrayLength - 1; counter++) {
             int indexOfMinimum = counter;
             // Find the index of the minimum element in the unsorted array
-            for (int comparisonIndex = counter + 1; comparisonIndex < arrayLength; comparisonIndex++) {
+            for (int comparisonIndex = counter + 1;
+             comparisonIndex < arrayLength; comparisonIndex++) {
                 if (arrayToSort[comparisonIndex] < arrayToSort[indexOfMinimum]) {
                     indexOfMinimum = comparisonIndex;
                 }
