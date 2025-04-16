@@ -1,0 +1,200 @@
+Array 1 Sorted:   [17, 25, 26, 50, 78, 81]
+
+Array 2 Sorted:   [8, 42, 45, 62, 72, 80]
+
+Array 3 Sorted:   [15, 20, 38, 53, 77, 89]
+
+Array 4 Sorted:   [1, 1, 27, 95, 96, 99]
+
+Array 5 Sorted:   [16, 42, 46, 46, 68, 70]
+
+Array 6 Sorted:   [5, 16, 37, 50, 68, 87]
+
+Array 7 Sorted:   [2, 25, 52, 57, 83, 91]
+
+Array 8 Sorted:   [1, 10, 36, 49, 74, 79]
+
+Array 9 Sorted:   [13, 31, 53, 81, 89, 91]
+
+Array 10 Sorted:   [3, 10, 25, 42, 51, 96]
+
+Array 11 Sorted:   [0, 16, 26, 36, 59, 61]
+
+Array 12 Sorted:   [17, 18, 52, 56, 65, 74]
+
+Array 13 Sorted:   [6, 12, 35, 49, 80, 97]
+
+Array 14 Sorted:   [3, 13, 46, 66, 71, 84]
+
+Array 15 Sorted:   [41, 42, 46, 50, 60, 87]
+
+Array 16 Sorted:   [9, 39, 56, 63, 78, 87]
+
+Array 17 Sorted:   [25, 48, 58, 72, 84, 91]
+
+Array 18 Sorted:   [2, 46, 72, 77, 82, 86]
+
+Array 19 Sorted:   [3, 6, 17, 18, 54, 57]
+
+Array 20 Sorted:   [28, 41, 70, 78, 80, 83]
+
+Array 21 Sorted:   [0, 26, 44, 64, 93, 97]
+
+Array 22 Sorted:   [21, 22, 44, 54, 64, 80]
+
+Array 23 Sorted:   [7, 15, 34, 65, 72, 74]
+
+Array 24 Sorted:   [16, 30, 30, 38, 44, 74]
+
+Array 25 Sorted:   [9, 24, 29, 37, 63, 70]
+
+Array 26 Sorted:   [13, 38, 61, 66, 71, 73]
+
+Array 27 Sorted:   [1, 39, 82, 84, 85, 95]
+
+Array 28 Sorted:   [7, 11, 15, 48, 48, 77]
+
+Array 29 Sorted:   [14, 22, 26, 89, 95, 98]
+
+Array 30 Sorted:   [2, 3, 8, 16, 20, 33]
+
+Array 31 Sorted:   [36, 45, 47, 64, 80, 91]
+
+Array 32 Sorted:   [7, 7, 21, 24, 41, 47]
+
+Array 33 Sorted:   [1, 22, 45, 61, 64, 69]
+
+Array 34 Sorted:   [3, 14, 19, 80, 84, 92]
+
+Array 35 Sorted:   [0, 36, 36, 52, 87, 88]
+
+Array 36 Sorted:   [21, 22, 26, 57, 71, 73]
+
+Array 37 Sorted:   [16, 37, 51, 57, 71, 73]
+
+Array 38 Sorted:   [9, 41, 48, 57, 59, 96]
+
+Array 39 Sorted:   [25, 44, 45, 52, 69, 85]
+
+Array 40 Sorted:   [6, 10, 14, 31, 48, 80]
+
+Array 41 Sorted:   [10, 43, 56, 58, 83, 87]
+
+Array 42 Sorted:   [5, 14, 21, 44, 55, 66]
+
+Array 43 Sorted:   [7, 24, 35, 49, 53, 76]
+
+Array 44 Sorted:   [61, 76, 84, 87, 89, 94]
+
+Array 45 Sorted:   [20, 22, 24, 30, 35, 78]
+
+Array 46 Sorted:   [23, 38, 39, 53, 59, 85]
+
+Array 47 Sorted:   [5, 33, 46, 51, 62, 73]
+
+Array 48 Sorted:   [10, 18, 19, 25, 68, 71]
+
+Array 49 Sorted:   [23, 31, 54, 62, 75, 84]
+
+Array 50 Sorted:   [57, 71, 72, 83, 93, 95]
+
+Array 51 Sorted:   [19, 32, 52, 58, 74, 85]
+
+Array 52 Sorted:   [3, 52, 71, 73, 75, 94]
+
+Array 53 Sorted:   [4, 49, 72, 74, 84, 96]
+
+Array 54 Sorted:   [25, 53, 60, 72, 86, 87]
+
+Array 55 Sorted:   [4, 22, 25, 51, 83, 90]
+
+Array 56 Sorted:   [28, 30, 36, 71, 72, 99]
+
+Array 57 Sorted:   [21, 57, 67, 81, 81, 88]
+
+Array 58 Sorted:   [22, 23, 31, 48, 54, 57]
+
+Array 59 Sorted:   [2, 37, 73, 87, 91, 92]
+
+Array 60 Sorted:   [21, 28, 29, 47, 77, 99]
+
+Array 61 Sorted:   [0, 10, 12, 14, 68, 70]
+
+Array 62 Sorted:   [11, 14, 34, 75, 87, 89]
+
+Array 63 Sorted:   [1, 48, 49, 55, 71, 88]
+
+Array 64 Sorted:   [30, 40, 59, 82, 84, 96]
+
+Array 65 Sorted:   [31, 44, 50, 64, 83, 91]
+
+Array 66 Sorted:   [3, 16, 53, 71, 75, 79]
+
+Array 67 Sorted:   [34, 38, 54, 68, 75, 88]
+
+Array 68 Sorted:   [7, 56, 61, 75, 86, 89]
+
+Array 69 Sorted:   [0, 41, 52, 58, 79, 82]
+
+Array 70 Sorted:   [23, 38, 41, 56, 65, 98]
+
+Array 71 Sorted:   [13, 28, 52, 69, 86, 99]
+
+Array 72 Sorted:   [33, 42, 48, 49, 82, 96]
+
+Array 73 Sorted:   [1, 3, 15, 41, 59, 67]
+
+Array 74 Sorted:   [29, 44, 73, 74, 85, 94]
+
+Array 75 Sorted:   [19, 24, 24, 68, 75, 77]
+
+Array 76 Sorted:   [9, 24, 27, 32, 37, 63]
+
+Array 77 Sorted:   [24, 29, 29, 44, 76, 79]
+
+Array 78 Sorted:   [7, 28, 29, 58, 75, 75]
+
+Array 79 Sorted:   [10, 25, 28, 38, 82, 93]
+
+Array 80 Sorted:   [5, 24, 27, 38, 68, 69]
+
+Array 81 Sorted:   [2, 4, 4, 37, 85, 99]
+
+Array 82 Sorted:   [11, 52, 54, 61, 74, 80]
+
+Array 83 Sorted:   [18, 31, 46, 48, 67, 81]
+
+Array 84 Sorted:   [7, 19, 33, 43, 51, 77]
+
+Array 85 Sorted:   [1, 8, 61, 69, 80, 88]
+
+Array 86 Sorted:   [2, 11, 37, 63, 73, 86]
+
+Array 87 Sorted:   [19, 31, 56, 64, 82, 93]
+
+Array 88 Sorted:   [17, 54, 59, 75, 87, 95]
+
+Array 89 Sorted:   [19, 28, 61, 67, 69, 76]
+
+Array 90 Sorted:   [8, 45, 56, 68, 80, 91]
+
+Array 91 Sorted:   [7, 20, 25, 30, 63, 83]
+
+Array 92 Sorted:   [30, 33, 58, 59, 64, 79]
+
+Array 93 Sorted:   [18, 23, 23, 27, 98, 98]
+
+Array 94 Sorted:   [24, 32, 63, 67, 94, 98]
+
+Array 95 Sorted:   [7, 15, 20, 55, 85, 98]
+
+Array 96 Sorted:   [31, 57, 66, 76, 77, 93]
+
+Array 97 Sorted:   [28, 29, 44, 49, 75, 83]
+
+Array 98 Sorted:   [23, 34, 43, 62, 66, 94]
+
+Array 99 Sorted:   [10, 21, 36, 57, 62, 99]
+
+Array 100 Sorted:   [18, 69, 77, 89, 90, 94]
+
