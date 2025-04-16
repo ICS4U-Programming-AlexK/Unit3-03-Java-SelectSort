@@ -62,7 +62,8 @@ public final class SelectSort {
             // Find the index of the minimum element in the unsorted array
             for (int comparisonIndex = counter + 1;
              comparisonIndex < arrayLength; comparisonIndex++) {
-                if (arrayToSort[comparisonIndex] < arrayToSort[indexOfMinimum]) {
+                if (arrayToSort[comparisonIndex] <
+                 arrayToSort[indexOfMinimum]) {
                     indexOfMinimum = comparisonIndex;
                 }
             }
