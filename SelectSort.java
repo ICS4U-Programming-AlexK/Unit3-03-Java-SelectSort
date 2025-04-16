@@ -58,19 +58,18 @@ public final class SelectSort {
         int arrayLength = arrayToSort.length;
         // Loop through the array
         for (int counter = 0; counter < arrayLength - 1; counter++) {
-            int indexOfMinimum = counter;
+            int indexMin = counter;
             // Find the index of the minimum element in the unsorted array
             for (int comparisonIndex = counter + 1;
              comparisonIndex < arrayLength; comparisonIndex++) {
-                if (arrayToSort[comparisonIndex] <
-                 arrayToSort[indexOfMinimum]) {
-                    indexOfMinimum = comparisonIndex;
+                if (arrayToSort[comparisonIndex] < arrayToSort[indexMin]) {
+                    indexMin = comparisonIndex;
                 }
             }
             // If the minimum is not the current element, swap them
             // Swap the minimum element found with the current element
-            int temporaryValue = arrayToSort[indexOfMinimum];
-            arrayToSort[indexOfMinimum] = arrayToSort[counter];
+            int temporaryValue = arrayToSort[indexMin];
+            arrayToSort[indexMin] = arrayToSort[counter];
             arrayToSort[counter] = temporaryValue;
         }
     }
